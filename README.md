@@ -22,6 +22,6 @@ Initial password:
 
 形式：Add a CNAME record to：glitch.edgeapp.net
 
-#
+<<
 
 PS:强迫症可以在"Settings"的"Edit Project Details"更改默认随机生成的项目名称
